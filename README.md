@@ -13,4 +13,4 @@
 – Kişisel verilerin eksik veya yanlış işlenmesi halinde düzeltilmesini isteme
 – Kişisel verilerin silinmesini veya yok edilmesini talep etme
 
-5-) Hiçbir çekinme duymadan [qHerox](https://discord.com/users/852626880859340862) destek sunucusuna gelip soru sorabilirsiniz.
+5-) Hiçbir çekinme duymadan [qHerox](https://discord.com/users/852626880859340862) kullanıcısına gelip soru sorabilirsiniz.
