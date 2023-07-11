@@ -7,10 +7,10 @@
 – Sunucu Kimliği
 – Sunucu Üye Sayısı
 
-3-) Verileriniz, erişimi şifreleme ile kısıtlanmış bir veritabanında tutulur. Sorularınız için bot geliştiricileri ile iletişime geçebilirsiniz. [https://discord.gg/SY7aMsVpUJ](https://discord.gg/NUTqypwPmj)
+3-) Verileriniz, erişimi şifreleme ile kısıtlanmış bir veritabanında tutulur. Sorularınız için bot geliştiricileri ile iletişime geçebilirsiniz. [qHerox](https://discord.com/users/852626880859340862)
 
 4-) 
 – Kişisel verilerin eksik veya yanlış işlenmesi halinde düzeltilmesini isteme
 – Kişisel verilerin silinmesini veya yok edilmesini talep etme
 
-5-) Hiçbir çekinme duymadan [https://discord.gg/SY7aMsVpUJ](https://discord.gg/NUTqypwPmj) destek sunucusuna gelip soru sorabilirsiniz.
+5-) Hiçbir çekinme duymadan [qHerox](https://discord.com/users/852626880859340862) destek sunucusuna gelip soru sorabilirsiniz.
